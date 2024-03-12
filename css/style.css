@@ -1,0 +1,25 @@
+#head{
+    font-weight:900;
+    font-size:70px;
+    
+}
+span{
+    color: rgb(59, 59, 218);
+    font-size: 90px;
+}
+
+#para{
+    text-align: center;
+    font-size: 40px;
+}
+
+#btn{
+    color: white;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: rgb(59, 59, 218);
+}
+#btn:hover{
+    background-color: green;
+}
